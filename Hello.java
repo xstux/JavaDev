@@ -1,2 +1,0 @@
-package stuart.learn1;
-
